@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: aryu44
+Version: 0.2.0
+Summary: tool
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.7
