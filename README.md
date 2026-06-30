@@ -7,15 +7,12 @@
 	* sudo apt install ./**word-dict-{バージョン}.deb**でインストールする
 	* **word-dict**で起動する
 <br>
-**収録単語**
+## 収録単語
 <br>
-収録されている単語:[詳細](https://docs.google.com/document/d/1shnVsUNhXsFuFvZH4hvkZIGRvT2NlzTQwhvEX1GPokQ/edit?usp=sharing)	
+収録単語:[詳細](https://docs.google.com/document/d/1shnVsUNhXsFuFvZH4hvkZIGRvT2NlzTQwhvEX1GPokQ/edit?usp=sharing)を確認!	
 <br>
 <br>
-**バージョン情報**
-<br>
-↓
-<br>
+## バージョン情報
 |version|単語数|コメント|
 |----|----|----|
 |1.4.9|425|最新版|
