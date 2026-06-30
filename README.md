@@ -5,9 +5,9 @@
 ## 使い方
 1.最新バージョンの**word-dict.deb**をダウンロード
 <br>
-2.sudo apt install ./**word-dict-{バージョン}.deb**でインストールする
+2.`sudo apt install ./word-dict-{バージョン}.deb`でインストールする
 <br>
-3.**word-dict-version**で起動する
+3.**word-cit**で起動する
 
 ## 収録単語
 収録単語:[詳細](https://docs.google.com/document/d/1shnVsUNhXsFuFvZH4hvkZIGRvT2NlzTQwhvEX1GPokQ/edit?usp=sharing)を確認!	
