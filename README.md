@@ -19,7 +19,7 @@ word-dict
 ```
 
 ## 収録単語
-収録単語:[詳細](https://drive.google.com/file/d/1s9rLKbcJUQqcLtG5rClU9Z09VIhQnMKq/view?usp=drive_link)を確認!	
+収録単語:[詳細](./word_info.md)を確認!	
 
 ## バージョン情報
 |version|単語数|コメント|
