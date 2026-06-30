@@ -6,8 +6,9 @@ ubuntu系linuxのみ
 
 ## 使い方
 1.最新バージョンのダウンロード
+
 ```
-git clone https://github.com/asano12300-droid/word-dict/version/word-dict-version.deb
+wget https://github.com/asano12300-droid/word-dict/raw/refs/heads/main/(version)/word-dict-(version).deb
 ```
 2.インストール
 ```
