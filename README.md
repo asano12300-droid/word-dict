@@ -25,7 +25,9 @@ word-dict
 ## バージョン情報
 |version|単語数|コメント|
 |----|----|----|
-|[1.4.9](https://github.com/asano12300-droid/word-dict/tree/main/1.4.9)|425|最新版|
+|1.5.1|450|最新版|
+|1.5.0|450|起動不可|
+|[1.4.9](https://github.com/asano12300-droid/word-dict/tree/main/1.4.9)|425||
 |1.4.8|400||
 |1.4.7|400|起動不可|
 |1.4.6|375||
