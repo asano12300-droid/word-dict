@@ -10,7 +10,7 @@
 3.**word-cit**で起動する
 
 ## 収録単語
-収録単語:[詳細](https://docs.google.com/document/d/1shnVsUNhXsFuFvZH4hvkZIGRvT2NlzTQwhvEX1GPokQ/edit?usp=sharing)を確認!	
+収録単語:[詳細](https://drive.google.com/file/d/1s9rLKbcJUQqcLtG5rClU9Z09VIhQnMKq/view?usp=drive_link)を確認!	
 
 ## バージョン情報
 |version|単語数|コメント|
