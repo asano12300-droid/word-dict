@@ -7,12 +7,10 @@
 ```
 git clone https://github.com/asano12300-droid/word-dict/version/word-dict-version.deb
 ```
-<br>
 2.インストール
 ```
 sudo apt install ./word-dict-version.deb
 ```
-<br>
 3.**word-cit**で起動する
 
 ## 収録単語
