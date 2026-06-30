@@ -4,7 +4,7 @@
 ## 使い方
 1.最新バージョンのダウンロード
 ```
-git clone https://github.com/asano12300-droid/word-dict/version/word-dict-1.5.0.deb
+curl -LJO https://github.com/asano12300-droid/word-dict/version/word-dict-1.5.0.deb
 ```
 2.インストール
 ```
