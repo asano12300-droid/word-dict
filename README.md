@@ -12,7 +12,7 @@ wget https://github.com/asano12300-droid/word-dict/raw/refs/heads/main/(version)
 ```
 2.インストール
 ```
-sudo apt install ./word-dict-version.deb
+sudo apt install ./word-dict-(version).deb
 ```
 3.起動する
 ```
