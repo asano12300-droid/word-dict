@@ -5,7 +5,9 @@
 ## 使い方
 1.最新バージョンの**word-dict.deb**をダウンロード
 <br>
-2.`sudo apt install ./word-dict-{バージョン}.deb`でインストールする
+```
+sudo apt install ./word-dict-{バージョン}.deb
+```
 <br>
 3.**word-cit**で起動する
 
